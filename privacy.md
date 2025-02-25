@@ -11,6 +11,7 @@ Information We Collect
 The Extension's core function is to translate text on web pages using an AI Large Language Model (LLM). To achieve this, the Extension collects the following data:
 
 Text to be translated: When you use the Extension to translate text, we collect the text you have selected for translation.
+
 How We Use Your Information
 
 The text you select for translation is sent via an API to our secure translation server. Our server, in turn, forwards this text to the AI LLM for processing.
