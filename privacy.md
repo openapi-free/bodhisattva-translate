@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Thank you for using Bodhisattva Translate (the "Extension"). This Privacy Policy explains how we handle your data when you use our Extension. We are committed to protecting your privacy and ensuring transparency in our data practices.
+This Privacy Policy explains how Bodhisattva Translate (the "Extension") handles user data. We are committed to protecting user privacy and ensuring transparency in data practices.
 
 ## Information We Collect
 
@@ -16,7 +16,7 @@ Text to be translated: When you use the Extension to translate text, we collect 
 
 The text you select for translation is sent via an API to our secure translation server. Our server, in turn, forwards this text to the AI LLM for processing.
 
-Important: We want to assure you that our API server does not store the text you submit for translation. The server's sole purpose is to facilitate the translation process by acting as an intermediary between the Extension and the AI LLM.
+Our API server does not store the text submitted for translation. The server's sole purpose is to facilitate the translation process by acting as an intermediary between the Extension and the AI LLM.
 
 ## Information We Do Not Collect
 
@@ -41,10 +41,3 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
 goingemail@gmail.com
-
-Key Points to Emphasize:
-
-Data Minimization: Clearly state that you only collect the minimum data necessary for the Extension's functionality.
-No Storage of Translated Text: Reiterate that the API server does not store the translated text.
-Focus on Translation Process: Explain that the data is solely used for the translation process and nothing else.
-Remember to adapt this template to accurately reflect your Extension's specific data handling practices. If you have any further questions, feel free to ask!
