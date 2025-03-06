@@ -22,8 +22,10 @@ Our API server does not store the text submitted for translation. The server's s
 
 We want to be clear about what we do not collect:
 
-Personal information: We do not collect any personally identifiable information (PII) such as your name, email address, IP address, or browsing history.
-Website data: Aside from the specific text you select for translation, we do not collect any other data from the websites you visit.
+### Personal information: 
+We do not collect any personally identifiable information (PII) such as your name, email address, IP address, or browsing history.
+### Website data: 
+Aside from the specific text you select for translation, we do not collect any other data from the websites you visit.
 ## Information Sharing
 
 We do not share your data with any third parties, except as required by law or to comply with a legal process.
