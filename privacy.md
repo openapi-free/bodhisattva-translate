@@ -10,7 +10,8 @@ This Privacy Policy explains how Bodhisattva Translate (the "Extension") handles
 
 The Extension's core function is to translate text on web pages using an AI Large Language Model (LLM). To achieve this, the Extension collects the following data:
 
-Text to be translated: When you use the Extension to translate text, we collect the text you have selected for translation.
+### Text to be translated:
+When you use the Extension to translate text, we collect the text you have selected for translation.
 
 ## How We Use Your Information
 
